@@ -1,2 +1,3 @@
 # Solow-Model-Extensions
-Econometrics project on Solow Model in real world data
+
+Econometrics project aimed at evaluating Solow Model performances on real world data and investigating extensions
